@@ -1,0 +1,13 @@
+li a {
+	color: green;
+}
+
+.baner {
+	background: white url("images/fondo1.jpg");
+	width: 800px;
+	height: 300px;
+}
+
+body{
+	font-size: 25pt;
+}
